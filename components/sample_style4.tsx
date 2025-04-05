@@ -126,11 +126,11 @@ const Sample_Style4 = ({
     </text>
 
     <text x="30" y="270" fill="white" fontSize="24">
-      Twitter: {twitter ? twitter : "@luvnft"}
+      X: {twitter ? twitter : "@your_x"}
     </text>
 
     <text x="30" y="305" fill="white" fontSize="24">
-      Telegram: {telegram ? telegram : "@luvnftv"}
+      Telegram: {telegram ? telegram : "@your_xv"}
     </text>
 
     <text x="30" y="340" fill="white" fontSize="24">
