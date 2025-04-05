@@ -95,7 +95,7 @@ async function post(req: NextApiRequest, res: NextApiResponse) {
             method: "mintCompressedNft",
             params: {
               name: "Business Card",
-              symbol: "swissDAO",
+              symbol: "SOLBIZ",
               owner: airdropTo,
               description: "A business card courtesy of swissDAO",
               attributes: [
@@ -133,7 +133,7 @@ async function post(req: NextApiRequest, res: NextApiResponse) {
                 },
               ],
               imageUrl: image_url,
-              externalUrl: "https://www.swissDAO.space",
+              externalUrl: "https://solbiz.cards",
               sellerFeeBasisPoints: 10000,
               creators: [
                 {
