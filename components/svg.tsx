@@ -205,11 +205,11 @@ const Svg = ({
       </text>
 
       <text x="50" y="460" fill="white" fontSize="30">
-        Email: {email ? email : "builder@swissDAO.space"}
+        Email: {email ? email : "builder@solbiz.cards"}
       </text>
 
       <text x="50" y="520" fill="white" fontSize="30">
-        Website: {website ? website : "swissDAO.space"}
+        Website: {website ? website : "solbiz.cards"}
       </text>
     </svg>
   </div>

@@ -97,7 +97,7 @@ async function post(req: NextApiRequest, res: NextApiResponse) {
               name: "Business Card",
               symbol: "SOLBIZ",
               owner: airdropTo,
-              description: "A business card courtesy of swissDAO",
+              description: "A business card courtesy of SOLBIZ",
               attributes: [
                 {
                   trait_type: "Name",

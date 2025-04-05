@@ -208,11 +208,11 @@ const Svg_Style2 = ({
       </text>
 
       <text x="30" y="305" fill="black" fontSize="24">
-        Email: {email ? email : "builder@swissDAO.space"}
+        Email: {email ? email : "builder@solbiz.cards"}
       </text>
 
       <text x="30" y="340" fill="black" fontSize="24">
-        Website: {website ? website : "swissDAO.space"}
+        Website: {website ? website : "solbiz.cards"}
       </text>
     </svg>
   </div>

@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "swissDAO Business Cards",
+  title: "SOLBIZ Solana Business Cards",
   description: "Create your own business card cNFT",
 };
 export const dynamic = "force-dynamic";

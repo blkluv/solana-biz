@@ -204,15 +204,15 @@ const Svg_Style3 = ({
       </text>
 
       <text x="30" y="270" fill="black" fontSize="24">
-        Twitter: {twitter ? twitter : "@swissDAOspace"}
+        Twitter: {twitter ? twitter : "@luvnft"}
       </text>
 
       <text x="30" y="305" fill="black" fontSize="24">
-        Telegram: {telegram ? telegram : "@swissDAO_dev"}
+        Telegram: {telegram ? telegram : "@luvnftv"}
       </text>
 
       <text x="30" y="340" fill="black" fontSize="24">
-        Website: {website ? website : "swissDAO.space"}
+        Website: {website ? website : "solbiz.cards"}
       </text>
     </svg>
   </div>
